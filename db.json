@@ -1,27 +1,14 @@
 {
   "projects": [
     {
-      "name": "teste 1",
-      "budget": "500000",
+      "name": "sidemar schimmelpfennig junior",
+      "budget": "50000",
       "category": {
-        "id": "1",
-        "name": "Infraestrutura"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
-      "cost": 3050,
-      "services": [
-        {
-          "name": "seriço 1",
-          "cost": "50",
-          "description": "esse serviço faz isso ",
-          "id": "95a9b06b-229c-4913-81df-04d75a82b441"
-        },
-        {
-          "name": "sidemar schimmelpfennig junior ",
-          "cost": "3000",
-          "description": "valuention",
-          "id": "6eed0173-6b4d-47ca-a67c-af117f495ae1"
-        }
-      ],
+      "cost": 0,
+      "services": [],
       "id": 1
     }
   ],
