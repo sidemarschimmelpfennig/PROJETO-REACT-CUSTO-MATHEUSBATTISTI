@@ -1,3 +1,6 @@
+# Este projeto tem como base
+https://github.com/matheusbattisti/curso_react_yt
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
