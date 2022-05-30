@@ -1,4 +1,9 @@
-# Este projeto tem como base
+# Este projeto tem como base de aprendizado
+curso ministrado por mateus battisti na plataforma youtube
+para aquisição de conhecimentos como:
+-trabalho com DB
+-conhecimentos de react
+segue seu github:
 https://github.com/matheusbattisti/curso_react_yt
 
 # Getting Started with Create React App
